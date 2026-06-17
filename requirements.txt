@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-core
+chromadb
+sentence-transformers
+pydantic
+httpx
